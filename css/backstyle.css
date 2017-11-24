@@ -1,0 +1,16 @@
+body {
+    background-image: url("../assets/pet.jpg");
+    background-size: cover;
+}
+
+
+.logocontainer{
+	height:50px;
+	width:50px;
+	margin-left: 124;
+	margin-top: 10px;
+	
+	background-image: url("../assets/logo.png");
+	 background-size:cover;
+	 background-repeat: no-repeat;
+}
